@@ -1,4 +1,5 @@
 # Business-Case-Netflix---Data-Exploration-and-Visualisation
+This ia Python project on Netflix data.
 Netflix is a global subscription-based streaming service that provides entertainment, including movies, TV series, documentaries, and games, on internet-connected devices.
 As a data analyst I have analyze the Company data. I have provided few insights and recommendations based on my analysis.
 
